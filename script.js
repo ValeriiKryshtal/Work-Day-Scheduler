@@ -1,3 +1,5 @@
+//check if data already loaded if yes page will start run the code
+$(document).ready(function(){
 //Date display using day.js and method format to.
 var nowDate = dayjs().format( 'dddd, MMMM DD') + 'th';  
 const currentDay = document.querySelector('#currentDay');
@@ -60,3 +62,4 @@ for (let i = 1; i < 10; i++) {
   let v = `#txt${i}`
   $(v).text(localStorage.getItem(i));
 };
+});
