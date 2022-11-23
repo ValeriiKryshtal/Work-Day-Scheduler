@@ -11,4 +11,5 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 ## Installation
 There is no installation required.
-## Screenshoot of working up
+## Screenshoot 
+![screenshoot](https://github.com/ValeriiKryshtal/Work-Day-Scheduler/blob/main/WDscheulder.jpg)
